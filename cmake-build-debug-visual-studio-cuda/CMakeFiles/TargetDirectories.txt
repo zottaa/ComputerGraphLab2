@@ -1,0 +1,3 @@
+C:/Users/sasha/CLionProjects/cg_2_2/cmake-build-debug-visual-studio-cuda/CMakeFiles/cg_2_2.dir
+C:/Users/sasha/CLionProjects/cg_2_2/cmake-build-debug-visual-studio-cuda/CMakeFiles/edit_cache.dir
+C:/Users/sasha/CLionProjects/cg_2_2/cmake-build-debug-visual-studio-cuda/CMakeFiles/rebuild_cache.dir

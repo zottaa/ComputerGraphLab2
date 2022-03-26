@@ -1,0 +1,18 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/sasha/CLionProjects/cg_2_2/main.cu
+iostream
+-
+cstdio
+-
+cstdlib
+-
+ctime
+-
+
