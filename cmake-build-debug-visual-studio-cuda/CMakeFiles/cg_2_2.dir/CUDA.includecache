@@ -7,8 +7,6 @@
 #IncludeRegexTransform: 
 
 C:/Users/sasha/CLionProjects/cg_2_2/main.cu
-iostream
--
 cstdio
 -
 cstdlib
